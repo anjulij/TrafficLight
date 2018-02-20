@@ -1,3 +1,4 @@
+//Please see RGBretriever for the color
 public class MainActivity extends AppCompatActivity {
     private String s = "                ";
     private String backgroundColor = "#AFEEEE";
