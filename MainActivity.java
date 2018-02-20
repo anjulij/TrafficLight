@@ -1,3 +1,4 @@
+//K.A.J.
 //Please see RGBretriever for the color
 public class MainActivity extends AppCompatActivity {
     private String s = "                ";
